@@ -14,7 +14,8 @@ I am a college student studying Bachelor's in Computer Science and Engineering w
 
 ## Get in Touch:
 - Email: ukdhakshath@gmail.com
-- LinkedIn: dhakshathuk
+- LinkedIn: www.linkedin.com/in/
+dhakshath-uk-2854b
 
 
 Thank you for visiting!

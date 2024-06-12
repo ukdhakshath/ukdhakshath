@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukdhakshath" alt="ukdhakshath" /></a> </p>
 
-- 🔭 I’m currently finished this project and working on many other projects. [SGPA-Calculator(VTU)-2024](https://sgpa-calculator-2024scheme.tiiny.site)
+- 🔭 I’m currently host my demo project. [SGPA-Calculator(VTU)-2024](https://sgpa-calculator-2024scheme.tiiny.site)
 
 - 🌱 I’m currently learning **frontend and backend technologies.**
+
+- 👯 I’m currently working on many other projects. **Health-tracker with AI**
 
 - 🤝 I’m looking for help with **Health-tracker with AI**
 
@@ -31,6 +33,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@dhakshathuk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@dhakshathuk" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukdhakshath&show_icons=true&locale=en&layout=compact" alt="ukdhakshath" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ukdhakshath&show_icons=true&locale=en" alt="ukdhakshath" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukdhakshath&show_icons=true&locale=en&layout=compact" alt="ukdhakshath" /></p>

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukdhakshath" alt="ukdhakshath" /></a> </p>
 
-- 🔭 I’m currently host my demo project. [SGPA-Calculator(VTU)-2024](https://sgpa-calculator-2024scheme.tiiny.site)
+- 🔭 I’m currently host my demo project. [SGPA-Calculator(VTU)-2024](https://sgpa-calculator-2024.tiiny.site)
 
 - 🌱 I’m currently learning **frontend and backend technologies.**
 

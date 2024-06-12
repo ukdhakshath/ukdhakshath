@@ -5,11 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukdhakshath" alt="ukdhakshath" /></a> </p>
 
+- 🔭 I’m currently finished this project and working on many other projects. [SGPA-Calculator(VTU)-2024](https://sgpa-calculator-2024scheme.tiiny.site)
+
 - 🌱 I’m currently learning **frontend and backend technologies.**
+
+- 🤝 I’m looking for help with **Health-tracker with AI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ukdhakshath](https://github.com/ukdhakshath)
 
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **ukdhakshath@gmail.com**
+
+- ⚡ Fun fact **I am bad at coding!!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukdhakshath&show_icons=true&locale=en&layout=compact" alt="ukdhakshath" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ukdhakshath&show_icons=true&locale=en" alt="ukdhakshath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukdhakshath&" alt="ukdhakshath" /></p>
